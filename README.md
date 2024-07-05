@@ -1,9 +1,22 @@
 
 # UUID Replacement and Configuration File Generator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheMehranKhan/IranCelluarBypass/blob/main/IranBypass.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheMehranKhan/IranCelluarBypass/blob/main/IranBypass.ipynb)
 
 This script helps in generating configuration files with unique UUIDs and allows customization of network and proxy settings. It clears the directory of all files, generates new UUIDs, replaces the UUID in a given template, and creates a zip file containing the generated configuration files.
+
+# Before Uploading Profiles
+
+1. **Network Reset**: First, perform a network reset 🔄.
+2. **Send and Download Config File**: Send the created config file to the phone by any method, download it, then click on it to open and save it 💾.
+3. **Open Config File**: Go to the file manager and click on the config file to prompt the installation 📂.
+4. **Install Profile**: Go to Settings, navigate to VPN and Device Management, select the profile and install it 📲.
+5. **Cellular Data Settings**: Go to Cellular Data, enable Data Roaming and VoLTE on 5G or LTE, then restart the phone to regain signal 📶.
+6. **Install Shortcut**: Click on the shortcut link 📌: [Shortcut Link](https://www.icloud.com/shortcuts/61d1e0d2d80741b9a0a4392e7ef8c7f5), then click on Anten in the shortcut and install it 📱.
+
+If the signal drops, you can restart it by activating the shortcut again 🔄.
+
+All done, you have signal 📶.
 
 ## Features:
 - Uninstalls conflicting packages.

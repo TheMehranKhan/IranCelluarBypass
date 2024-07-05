@@ -1,6 +1,8 @@
 
 # UUID Replacement and Configuration File Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheMehranKhan/IranCelluarBypass/blob/main/IranBypass.py)
+
 This script helps in generating configuration files with unique UUIDs and allows customization of network and proxy settings. It clears the directory of all files, generates new UUIDs, replaces the UUID in a given template, and creates a zip file containing the generated configuration files.
 
 ## Features:

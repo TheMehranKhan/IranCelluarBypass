@@ -5,6 +5,8 @@
 
 This script helps in generating configuration files with unique UUIDs and allows customization of network and proxy settings. It clears the directory of all files, generates new UUIDs, replaces the UUID in a given template, and creates a zip file containing the generated configuration files.
 
+If you wanna know how this works read https://themehrankhan.hashnode.dev/understanding-the-uuid-replacement-and-configuration-file-generator-script
+
 # Before Uploading Profiles
 
 1. **Network Reset**: First, perform a network reset 🔄.
